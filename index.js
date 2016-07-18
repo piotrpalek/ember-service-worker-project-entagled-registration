@@ -2,5 +2,5 @@
 'use strict';
 
 module.exports = {
-  name: 'ember-service-worker-project-entagled-registration'
+  name: 'ember-service-worker-project-entangled-registration'
 };

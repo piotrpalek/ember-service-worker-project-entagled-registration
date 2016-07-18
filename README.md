@@ -1,4 +1,4 @@
-# Ember-service-worker-project-entagled-registration
+# Ember-service-worker-project-entangled-registration
 
 This README outlines the details of collaborating on this Ember addon.
 
